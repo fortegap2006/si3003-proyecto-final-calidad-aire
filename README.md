@@ -1,4 +1,4 @@
-# 🌿 Sistema Inteligente de Vigilancia y Asistencia para la Calidad del Aire en el Valle de Aburrá (SIATA – AMVA)
+# 🌿 Sistema Inteligente de Vigilancia y Asistencia para la Calidad del Aire en el Valle de Aburrá (SIATA – AMVA) 
 
 **Universidad EAFIT — Escuela de Ciencias Aplicadas e Ingeniería**  
 **Curso:** SI3003 – Inteligencia Artificial (2026-1) | **Proyecto Final Integrador**
